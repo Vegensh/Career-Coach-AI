@@ -1,15 +1,36 @@
 # Career-Coach-AI
-"AI-powered career chatbot built with Streamlit, Ollama LLM integration, and a rich career data engine. Explore sectors, job roles, salaries, skills, and personalized guidance for career planning in India."
 
-AI-powered career chatbot application for discovering career paths, top colleges, job roles, salaries, required skills, and more—built with Streamlit, Python, and Ollama LLM integration for the Indian market.
+## Project Description
+AI-powered career chatbot designed for personalized career guidance in India. Built with Streamlit, Python, and Ollama LLM integration, this chatbot helps users explore sectors, job roles, salaries, skills, roadmaps, and employer data to plan and navigate career paths efficiently.
 
-Features
-Interactive career guidance chatbot for personalized queries.
+## Features
+- Interactive chatbot providing real-time answers to career-related queries
+- Comprehensive data engine covering sectors, jobs, salary ranges, required skills, career roadmaps, and employers
+- Simple web interface built with Streamlit requiring no complex setup
+- Smart, context-aware responses powered by local Ollama LLM integration
+- Modular and extensible Python codebase for easy customization and scaling
 
-Real-time retrieval of sector, job, salary, skills, roadmap, and employer data.
+## Installation
 
-Easy web interface via Streamlit—no complex installation required.
+1. Clone the repository:
 
-Supports LLM-based smart answers with local Ollama server.
+2. Install dependencies:
 
-Modular, extensible codebase (Python) for rapid customization.
+
+## Usage
+
+Run the Streamlit app to start the chatbot interface:
+
+
+Interact with the chatbot by typing career questions or exploring predefined topics via the UI.
+
+## Future Work
+- Integrate voice input and response
+- Expand data coverage for additional regions and industries
+- Incorporate resume and interview preparation modules
+
+## License
+MIT License
+
+## Acknowledgements
+Thanks to the Ollama LLM team and Streamlit for enabling easy AI chatbot development.
